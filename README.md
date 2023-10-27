@@ -1,0 +1,2 @@
+# skriptsam
+Skriptsamling, sanfunnsvitenskap
